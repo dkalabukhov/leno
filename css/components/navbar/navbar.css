@@ -1,0 +1,5 @@
+.navbar {
+  padding: 1rem 2rem;
+  background-color: transparent;
+  transition: background-color 0.3s ease-in-out;
+}

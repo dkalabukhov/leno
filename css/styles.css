@@ -1,3 +1,12 @@
+@import url('./components/page/__navbar/page__navbar.css');
+@import url('./components/navbar/navbar.css');
+@import url('./components/navbar/__container/navbar__container.css');
+@import url('./components/navbar/_flex/navbar__container_flex.css');
+@import url('./components/navbar/__logo-img/navbar__logo-img.css');
+@import url('./components/navbar/__menu-list/navbar__menu-list.css');
+@import url('./components/navbar/__menu-link/navbar__menu-link.css');
+@import url('./components/navbar/_color/navbar__menu-link_color_primary.css');
+
 *,
 *::before,
 *::after {
@@ -11,6 +20,7 @@
   --secondary-color: #262431;
   --tertiary-color: #2f2c3d;
   --white-color: #fff;
+  --container-width: 1100px;
 }
 
 html,

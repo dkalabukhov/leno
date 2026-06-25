@@ -1,0 +1,6 @@
+.navbar__menu-list {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-weight: 600;
+}
