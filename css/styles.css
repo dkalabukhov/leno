@@ -1,3 +1,4 @@
+@import url('./components/page/page.css');
 @import url('./components/page/__navbar/page__navbar.css');
 @import url('./components/navbar/navbar.css');
 @import url('./components/navbar/__container/navbar__container.css');
@@ -28,8 +29,6 @@ body {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6;
   scroll-behavior: smooth;
-  background-color: var(--secondary-color);
-  color: var(--white-color);
 }
 
 a {
