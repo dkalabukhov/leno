@@ -3,10 +3,18 @@
 @import url('./components/navbar/navbar.css');
 @import url('./components/navbar/__container/navbar__container.css');
 @import url('./components/navbar/_flex/navbar__container_flex.css');
+@import url('./components/navbar/__menu/navbar__menu.css');
 @import url('./components/navbar/__logo-img/navbar__logo-img.css');
 @import url('./components/navbar/__menu-list/navbar__menu-list.css');
 @import url('./components/navbar/__menu-link/navbar__menu-link.css');
 @import url('./components/navbar/_color/navbar__menu-link_color_primary.css');
+@import url('./components/navbar/__mobile-menu-items/navbar__mobile-menu-items.css');
+@import url('./components/navbar/__mobile-menu-list/navbar__mobile-menu-list.css');
+@import url('./components/navbar/__mobile-menu-link/navbar__mobile-menu-link.css');
+@import url('./components/navbar/_color/navbar__mobile-menu-link_color_primary.css');
+@import url('./components/navbar/_active/navbar__mobile-menu-list_active.css');
+@import url('./components/navbar/__mobile-menu/navbar__mobile-menu.css');
+@import url('./components/navbar/__mobile-menu-toggle-icon/navbar__mobile-menu-toggle-icon.css');
 
 *,
 *::before,
@@ -29,6 +37,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6;
   scroll-behavior: smooth;
+  background-color: var(--secondary-color); /* temp */
 }
 
 a {
