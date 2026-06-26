@@ -1,0 +1,9 @@
+.hero__image {
+  max-width: 500px;
+}
+
+@media (max-width: 992px) {
+  .hero__image {
+    max-width: 350px;
+  }
+}

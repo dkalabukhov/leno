@@ -15,6 +15,18 @@
 @import url('./components/navbar/_active/navbar__mobile-menu-list_active.css');
 @import url('./components/navbar/__mobile-menu/navbar__mobile-menu.css');
 @import url('./components/navbar/__mobile-menu-toggle-icon/navbar__mobile-menu-toggle-icon.css');
+@import url('./components/hero/hero.css');
+@import url('./components/hero/__container/hero__container.css');
+@import url('./components/hero/_flex/hero__container_flex.css');
+@import url('./components/hero/__content/hero__content.css');
+@import url('./components/hero/__title/hero__title.css');
+@import url('./components/hero/_color/hero__text_color_primary.css');
+@import url('./components/hero/__description/hero__description.css');
+@import url('./components/button/button.css');
+@import url('./components/hero/__image/hero__image.css');
+@import url('./components/hero/__buttons/hero__buttons.css');
+@import url('./components/hero/__link-icon/hero__link-icon.css');
+@import url('./components/hero/__button/hero__button.css');
 
 *,
 *::before,

@@ -1,0 +1,12 @@
+.hero__container_flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
+
+@media (max-width: 992px) {
+  .hero__container_flex {
+    flex-direction: column;
+  }
+}
