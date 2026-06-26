@@ -1,6 +1,7 @@
 @import url('./components/page/page.css');
 @import url('./components/page/__navbar/page__navbar.css');
 @import url('./components/navbar/navbar.css');
+@import url('./components/navbar/_scroll/navbar_scroll.css');
 @import url('./components/navbar/__container/navbar__container.css');
 @import url('./components/navbar/_flex/navbar__container_flex.css');
 @import url('./components/navbar/__menu/navbar__menu.css');
