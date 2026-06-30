@@ -28,6 +28,12 @@
 @import url('./components/hero/__buttons/hero__buttons.css');
 @import url('./components/hero/__link-icon/hero__link-icon.css');
 @import url('./components/hero/__button/hero__button.css');
+@import url('./components/testimonials/testimonials.css');
+@import url('./components/testimonials/__container/testimonials__container.css');
+@import url('./components/testimonials/_grid/testimonials__container_grid.css');
+@import url('./components/testimonials/__card/testimonials__card.css');
+@import url('./components/testimonials/__image/testimonials__image.css');
+@import url('./components/testimonials/__card-text/testimonials__card-text.css');
 
 *,
 *::before,

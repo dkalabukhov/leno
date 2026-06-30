@@ -1,0 +1,7 @@
+.testimonials__image {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1.5rem;
+}
